@@ -14,3 +14,13 @@ Dump
 Escape
 
 ![Config Escape](/Config_Escape.png)
+
+## Classes
+
+Classes In Memory
+
+![Classes In Memory](/ClassesInMemory.png)
+
+Class Children
+
+![Class Children](/ClassChildren.png)
