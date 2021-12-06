@@ -24,3 +24,9 @@ Classes In Memory
 Class Children
 
 ![Class Children](/ClassChildren.png)
+
+## VISA
+
+Interface Type Enum
+
+![VISA Interface Type](/VISA_InterfaceType.png)
