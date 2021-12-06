@@ -34,3 +34,7 @@ Interface Type Enum
 VISA Open (GPIB or Serial)
 
 ![VISA Open](/VISA_Open2.png)
+
+VISA Query
+
+![VISA Query](/VISA_Query.png)
