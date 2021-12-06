@@ -30,3 +30,7 @@ Class Children
 Interface Type Enum
 
 ![VISA Interface Type](/VISA_InterfaceType.png)
+
+VISA Open (GPIB or Serial)
+
+![VISA Open](/VISA_Open.png)
