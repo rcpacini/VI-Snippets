@@ -49,3 +49,7 @@ Excel Read XLSX (w/o .NET or ActiveX) - Requires Unzip.vi (Windows only)
 
 ![Excel Read XLSX](/Excel_Read_XLSX.png)
 
+Excel Cell to Value
+
+![Excel Cell to Value](/Excel_Cell_to_Value.png)
+
