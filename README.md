@@ -38,3 +38,14 @@ VISA Open (GPIB or Serial)
 VISA Query
 
 ![VISA Query](/VISA_Query.png)
+
+## Excel
+
+Excel Cell to Row/Column
+
+![Excel Cell to RowCol](/Excel_Cell_to_RowCol.png)
+
+Excel Read XLSX (w/o .NET or ActiveX) - Requires Unzip.vi (Windows only)
+
+![Excel Read XLSX](/Excel_Read_XLSX.png)
+
