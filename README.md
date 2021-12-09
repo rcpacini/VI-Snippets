@@ -53,3 +53,6 @@ Excel Cell to Value
 
 ![Excel Cell to Value](/Excel_Cell_to_Value.png)
 
+Excel Variant Elements
+
+![Excel Variant Elements](/Excel_Variant_Elements.png)
