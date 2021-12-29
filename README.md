@@ -56,3 +56,9 @@ Excel Cell to Value
 Excel Variant Elements
 
 ![Excel Variant Elements](/Excel_Variant_Elements.png)
+
+## Win32
+
+Write StdOut Console
+
+![WriteConsole](/WriteConsole.png)
