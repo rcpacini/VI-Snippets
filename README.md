@@ -62,3 +62,7 @@ Excel Variant Elements
 Write StdOut Console
 
 ![WriteConsole](/WriteConsole.png)
+
+Get Current Directory
+
+![GetCurrentDirectory](/GetCurrentDirectory.png)
