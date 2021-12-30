@@ -7,6 +7,10 @@ Load
 
 ![Config Load](/Config_Load.png)
 
+Load 2D (Section, Key, Value, Comment)
+
+![Config Load2](/Config_Load2.png)
+
 Dump
 
 ![Config Dump](/Config_Dump.png)
