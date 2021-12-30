@@ -15,6 +15,10 @@ Dump
 
 ![Config Dump](/Config_Dump.png)
 
+Dump 2D (Section, Key, Value, Comment)
+
+![Config Dump2](/Config_Dump2.png)
+
 Escape
 
 ![Config Escape](/Config_Escape.png)
