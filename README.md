@@ -81,3 +81,9 @@ Icon Header
 
 ![Icon Header](/IconHeader.png)
 
+## Tree
+
+Generate tree from a parent linked weighted list.
+
+![Generate Tree](/GenerateTree.png)
+
