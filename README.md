@@ -81,6 +81,10 @@ Icon Header
 
 ![Icon Header](/IconHeader.png)
 
+Symbols 1-bit pixmap
+
+![Symbols1Bit](/Symbols1Bit.png)
+
 ## Tree
 
 Generate tree from a parent linked weighted list.
