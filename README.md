@@ -87,3 +87,9 @@ Generate tree from a parent linked weighted list.
 
 ![Generate Tree](/GenerateTree.png)
 
+## File
+
+Set as read only.
+
+![FileReadOnly](/FileReadOnly.png)
+
