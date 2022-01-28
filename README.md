@@ -97,3 +97,8 @@ Set as read only.
 
 ![FileReadOnly](/FileReadOnly.png)
 
+## Bits
+
+Reverse all bits (regardless of byte size).
+
+![ReverseBitsVim](/ReverseBitsVim.png)
