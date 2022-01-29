@@ -102,3 +102,14 @@ Set as read only.
 Reverse all bits (regardless of byte size).
 
 ![ReverseBitsVim](/ReverseBitsVim.png)
+
+## CRC
+
+CRC-16
+
+![CRC-16](/crc16.png)
+
+CRC-32
+
+![CRC-32](/crc32.png)
+
