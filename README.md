@@ -105,6 +105,10 @@ Reverse all bits (regardless of byte size).
 
 ## CRC
 
+CRC-8
+
+![CRC-8](/crc8.png)
+
 CRC-16
 
 ![CRC-16](/crc16.png)
