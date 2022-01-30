@@ -117,3 +117,6 @@ CRC-32
 
 ![CRC-32](/crc32.png)
 
+MD5
+
+![MD5](/MD5.png)
