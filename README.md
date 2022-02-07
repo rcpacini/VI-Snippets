@@ -120,3 +120,10 @@ CRC-32
 MD5
 
 ![MD5](/MD5.png)
+
+## Project
+
+Project Items - Get Project item's indent, symbol, tag, text, type and path.
+
+![ProjectItems](/ProjectItems.png)
+
