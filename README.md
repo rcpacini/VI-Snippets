@@ -7,6 +7,8 @@ Anatomy of a LabVIEW VI
 
 ![VI Anatomy](/VI_Anatomy.png)
 
+![Read VI Blocks](/Read VI Blocks.png)
+
 ## Config
 
 Load
