@@ -1,6 +1,12 @@
 # VI-Snippets
 VI Snippets of commonly used LabVIEW functions
 
+## VI Anatomy
+
+Anatomy of a LabVIEW VI
+
+![VI Anatomy](/VI_Anatomy.png)
+
 ## Config
 
 Load
